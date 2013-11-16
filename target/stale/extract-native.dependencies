@@ -1,0 +1,1 @@
+([:dependencies ([org.clojure/clojure "1.5.1"] [incanter/incanter-core "1.5.4"] [incanter/incanter-io "1.5.4"] [incanter/incanter-excel "1.5.4"] [enlive/enlive "1.1.4"] [org.clojure/tools.nrepl "0.2.3"] [clojure-complete/clojure-complete "0.2.3"])])
